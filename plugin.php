@@ -2,7 +2,7 @@
 ET::$pluginInfo["AttachmentsLightbox"] = array(
 	"name"        => "Attachments (Lightbox)",
 	"description" => "Make attachments open in lightbox",
-	"version"     => "1.0",
+	"version"     => "2.0",
 	"author"      => "Martin Mårtensson",
 	"authorEmail" => "martin@redward.se",
 	"authorURL"   => "http://redward.se",
