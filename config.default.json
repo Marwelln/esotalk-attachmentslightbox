@@ -1,5 +1,5 @@
 {
-	"transition" : "elactic",
+	"transition" : "elastic",
 	"speed" : 350,
 	"scalePhotos" : 1,
 	"opacity" : 0.85,
